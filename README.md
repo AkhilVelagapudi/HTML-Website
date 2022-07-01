@@ -1,2 +1,2 @@
-# WebDevUdemy
-All projects from Udemy Web Development Course
+# HTML Website
+First website about myself using HTML
